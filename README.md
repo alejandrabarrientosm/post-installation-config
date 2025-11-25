@@ -1,1 +1,1 @@
-post-install-config.git
+# post-install-config
