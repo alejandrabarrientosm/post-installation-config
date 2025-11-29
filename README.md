@@ -72,6 +72,7 @@ After created the new Department, we are going to create a new Teams for the pur
 <p align left>
 <img width="560" height="211" alt="image" src="https://github.com/user-attachments/assets/df382895-a06d-49c9-a62b-c20034e4a48d" />
 <img width="564" height="383" alt="Screenshot 2025-11-28 152048" src="https://github.com/user-attachments/assets/e5909304-5ee8-4e7c-bf1a-50d6708d812f" />
+
 For now we do not have members yet but we will create them eventually. 
 <p align left>
 <img width="1316" height="523" alt="image" src="https://github.com/user-attachments/assets/4b6fe0e8-0ca6-4ddc-9472-60c1ca6e02b9" />
